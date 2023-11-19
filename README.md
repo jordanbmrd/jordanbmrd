@@ -4,8 +4,7 @@
 
 🧑‍💻 I'm a software engineer with 2 years of experience in web development. <br/>
 🚀 Constantly learning new technologies and building projects. <br/> 
-📫 How to reach me: <a target="_blank" href="[https://www.linkedin.com/in/miguel-l-302389249/](https://www.linkedin.com/in/jordanbaumard/)">LinkedIn</a> <br/>
-<!-- 🌐 My website: <a target="_blank" href="https://mler.dev">mler.dev</a> <br/> -->
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jordanbaumard/) <br/>
 
 
 
