@@ -1,30 +1,29 @@
-👋 Salut, je suis Jordan Baumard, un développeur full-stack passionné et étudiant en 2ème année de BUT Informatique à l'IUT de Paris.
+![Banner](./assets/banner.gif)
 
-🚀 **Compétences techniques**:
-- Langages de programmation : Java, Javascript, Python, C, PHP
-- Frameworks : React, TypeScript, Bootstrap, JavaFX
-- Base de données : MySQL, MongoDB
-- Outils de développement : Git, Netlify
-- Design : Figma & Photoshop
+### Hi there 👋 I'm Jordan
 
-🌐 **Langues**:
-- Français : Langue maternelle
-- Anglais : C1 (Certification EF Set - 68/100)
+🧑‍💻 I'm a software engineer with 2 years of experience in web development. <br/>
+🚀 Constantly learning new technologies and building projects. <br/> 
+📫 How to reach me: <a target="_blank" href="[https://www.linkedin.com/in/miguel-l-302389249/](https://www.linkedin.com/in/jordanbaumard/)">LinkedIn</a> <br/>
+<!-- 🌐 My website: <a target="_blank" href="https://mler.dev">mler.dev</a> <br/> -->
 
-💼 **Expérience professionnelle**:
-- Développeur Full Stack au Ministère des Armées (Paris, septembre 2022 - actuellement)
-- Développeur web lors de la Nuit de l'info (Laval, novembre 2021) - 1er prix en France
-- Développeur web lors du Startup Weekend (Le Mans, novembre 2019) - 3ème prix du public
 
-🎓 **Formation**:
-- IMT Atlantique, Brest - Ingénieur Informatique (2023 - 2026)
-- IUT de Paris - BUT Informatique, Spécialité : Déploiement d'applications communicantes et sécurisées (2021 - 2023, actuellement)
-- Lycée Touchard Washington, Le Mans - Baccalauréat mention "Bien" (2021)
 
-🔗 **Liens utiles**:
-- E-mail: jordanbmrd@gmail.com
-- Github: [https://github.com/jordanbmrd](https://github.com/jordanbmrd)
-- LinkedIn: [https://www.linkedin.com/in/jordanbaumard/](https://www.linkedin.com/in/jordanbaumard/)
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-N'hésitez pas à consulter mes projets et à me contacter pour toute opportunité de collaboration. Au plaisir de travailler ensemble !
-
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  <br/>
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  <br/>
+  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+  ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
