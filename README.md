@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Jordan
 
-🧑‍💻 I'm a software engineer with 2+ years of experience in web development. <br/>
+🧑‍💻 I'm a software engineer and CS student. <br/>
 🚀 Constantly learning new technologies and building projects. <br/> 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jordanbaumard/) <br/>
 
